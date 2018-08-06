@@ -1,6 +1,7 @@
 import React from "react";
 import PropTypes from "prop-types";
 
+/** Test component */
 class Table extends React.Component{
 
 

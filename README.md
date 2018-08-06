@@ -1,8 +1,11 @@
+# to get this library 
+git clone https://github.com/sachkosm/react-comp-generated-docs.git
+
 # Pluralsight React Components
 
 A library of React components created in "Creating Reusable React Components" on Pluralsight.
 
-## Install
+## Install original
 ```
 npm install ps-react
 ```
